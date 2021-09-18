@@ -16,3 +16,7 @@ git clone git@github.com:Yue-plus/halo-theme-arknights.git templates\themes\arkn
 
 - [Halo 官网](https://halo.run/)
 - [Halo 主题开发指南](https://docs.halo.run/zh/developer-guide/theme)
+- [Halo 主题仓库](https://halo.run/themes.html)
+- [Halo 论坛](https://bbs.halo.run/)
+- 最终的主题会在论坛发布（详见模版发布）
+- 本主题的最终解释权归 Yue-plus 所有（https://github.com/Yue-plus/halo-theme-arknights）
